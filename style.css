@@ -25,6 +25,7 @@
     font-size: 98px;
     margin-left: 50px;
     color: white;
+    margin-top: 10rem;
 
 }
 .tag{
@@ -58,6 +59,7 @@
 
     width: 100%;
     background-color: rgb(33,113,255);
+    
 }
 .inst{
     font-size: 18px;
@@ -138,6 +140,12 @@ body{
         } */
         .section {
             padding-top: 3%;
+        }
+        .footer1{
+            padding-left: 10rem;
+            padding-top: 5rem;
+            color: rgb(162,165,168);
+
         }
         
         
