@@ -1,0 +1,145 @@
+.container{
+    overflow: hidden;
+    padding: 0%;
+    
+    
+    
+    
+    
+    
+    
+}
+.col-md-6{
+    margin: 0%;
+    
+    background-color:rgb(248,249,250);
+}
+.logo{
+    padding-left: 30%;
+    
+    
+}
+.qic{
+    /* padding-left: 8.5rem; */
+    font-weight: 500;
+    font-size: 98px;
+    margin-left: 50px;
+    color: white;
+
+}
+.tag{
+    font-weight: 300;
+    font-size: 50px;
+    color: white;
+}
+
+
+.generation{
+    color: white;
+    font-weight: 200;
+    padding-top: 45px;
+    
+    font-style: italic;
+    
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 0.2px;
+}
+.gallery{
+    width: 230px;
+    height: 75px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+
+}
+.qic-colour{
+
+    width: 100%;
+    background-color: rgb(33,113,255);
+}
+.inst{
+    font-size: 18px;
+    font-weight: 200;
+}
+body{
+    margin: auto;
+}
+/* .col-12{
+    margin: 0%;
+    height: 150px;
+    background-color: rgb(138, 126, 126);
+    
+} */
+/* .second-quadisiya{
+    font-family: "Montserrat", Sans-serif;
+    font-size: 40px;
+    font-weight:200px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-left: 600px;
+    margin-top: 40px;
+
+} */
+.v{
+    height: 125px;
+    width: 100%;
+}
+.poster{
+     
+    margin-left: 20%;}
+    .choose{
+        margin-top: 5%;
+        font-weight: 600;
+        font-size: 4rem;
+
+        }
+        .quality{
+            margin-top: 5%;
+        font-weight: 300;
+        font-size: 4rem;
+        font-family: "Playfair Display", Sans-serif;
+
+        }
+        .icon{
+            margin-top: 50px;
+            margin-left: 100px;
+        }
+        .branches{
+            margin-top: 15%;
+            margin-left: 33%;
+            color: rgb(144,164,174);
+        }
+        .talks{
+            margin-top: 5%;
+            margin-left: 33%;
+            font-size: 71px;
+            color: rgb(144,164,174);
+
+        }
+        .words{
+            margin-top:10% ;
+        }
+        .sentence{
+            font-size: 20px;
+        }
+        .card{
+            border-radius: 5%;
+        }
+        /* .containerNew{
+             
+                background-color: green;
+                margin-right: auto;
+                margin-left: auto;
+                padding-left: 0px;
+                padding-right: 0px;
+              
+        } */
+        .section {
+            padding-top: 3%;
+        }
+        
+        
+        
+
